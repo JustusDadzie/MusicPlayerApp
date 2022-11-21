@@ -5,8 +5,5 @@ Contributors to this project: Afransah-Dadzie Justus, Amos Adzie, and Derick Dar
 
 This is just a basic music playing application. where user will have to grant permission access for the app the read and play audio files from your storage. After permission is granted, audio file will display in the app and users play audio through the app.
 
-FEATURES
-Play music 
-Access audio from phone storage
-Simple UI
+FEATURES:Play music, Access audio from phone storage, Simple UI
 
